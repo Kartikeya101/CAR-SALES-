@@ -9,7 +9,7 @@
 </div>
 
 
-## OBJECTIVE
+## OBJECTIVES
 
 1) To find income class of UK Citizens on the basis of car price
 2) Why their is jump in prices in specific years
